@@ -1,0 +1,22 @@
+---
+- Students:
+  - name: Anil
+    phno: 123
+    address:
+        doorNo:334
+        SNo:4
+        Zip:09876
+
+  - name: Sunil
+    phno: 321
+    address:
+        doorNo:334
+        SNo:4
+        Zip:09876
+
+  - name: Thomas
+    phno: 342
+    address:
+        doorNo:334
+        SNo:4
+        Zip:09876
