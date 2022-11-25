@@ -7,3 +7,8 @@
 
 
 [DBservers]
+
+
+[mywebservers:vars]
+mywebpackonubuntu-=apache2555
+mywebpackonredhat=httpd
